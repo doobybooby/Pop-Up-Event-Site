@@ -1,7 +1,7 @@
 ### To view the file, 
 
 ```
-git clone https://github.com/doobybooby/Meet-The-Team.git
+git clone https://github.com/doobybooby/Pop-Up-Event-Site.git
 ```
 
 ### Once it finish downloading, make sure to go into the file
